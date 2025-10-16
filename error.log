@@ -1,0 +1,160 @@
+[2025-09-19 10:26:40] [スクリプトエラー]: stack traceback:
+[2025-09-19 10:26:40] [スクリプトエラー]: 	[C]: in method 'SetCost'
+[2025-09-19 10:26:40] [スクリプトエラー]: 	[string "c16197610.lua"]:33: in function <[string "c16197610.lua"]:4>
+[2025-09-19 10:26:40] [スクリプトエラー]: [string "c16197610.lua"]:33: Parameter 2 should be "Function" but is "nil".
+[2025-09-19 10:26:40] [スクリプトエラー]: stack traceback:
+[2025-09-19 10:26:40] [スクリプトエラー]: 	[C]: in method 'SetCost'
+[2025-09-19 10:26:40] [スクリプトエラー]: 	[string "c16197610.lua"]:33: in function <[string "c16197610.lua"]:4>
+[2025-09-19 10:26:40] [スクリプトエラー]: [string "c16197610.lua"]:33: Parameter 2 should be "Function" but is "nil".
+[2025-09-19 10:26:40] [スクリプトエラー]: stack traceback:
+[2025-09-19 10:26:40] [スクリプトエラー]: 	[C]: in method 'SetCost'
+[2025-09-19 10:26:40] [スクリプトエラー]: 	[string "c16197610.lua"]:33: in function <[string "c16197610.lua"]:4>
+[2025-09-19 10:26:40] [スクリプトエラー]: [string "c16197610.lua"]:33: Parameter 2 should be "Function" but is "nil".
+[2025-09-27 12:24:31] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-27 12:25:29] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-27 17:01:53] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-27 17:02:19] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-28 13:45:34] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-28 13:46:14] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-28 14:05:51] [スクリプトエラー]: stack traceback:
+[2025-09-28 14:05:51] [スクリプトエラー]: 	[string "c25862681.lua"]:4: in function <[string "c25862681.lua"]:2>
+[2025-09-28 14:05:51] [スクリプトエラー]: [string "c25862681.lua"]:4: attempt to call a nil value (field 'NonTuner')
+[2025-09-28 14:06:15] [スクリプトエラー]: stack traceback:
+[2025-09-28 14:06:15] [スクリプトエラー]: 	[string "c25862681.lua"]:4: in function <[string "c25862681.lua"]:2>
+[2025-09-28 14:06:15] [スクリプトエラー]: [string "c25862681.lua"]:4: attempt to call a nil value (field 'NonTuner')
+[2025-09-28 16:04:59] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-28 16:07:08] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-28 17:43:02] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-28 17:43:17] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-29 14:12:42] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-29 14:13:53] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-30 15:46:49] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-30 15:48:18] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-30 16:32:46] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-30 16:37:50] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-30 21:38:53] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-30 21:40:32] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-30 22:48:22] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-09-30 22:50:54] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-01 16:28:14] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-01 16:28:23] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-01 17:20:53] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-01 17:21:10] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-01 17:22:16] [スクリプトエラー]: stack traceback:
+[2025-10-01 17:22:16] [スクリプトエラー]: 	[string "c25862681.lua"]:4: in function <[string "c25862681.lua"]:2>
+[2025-10-01 17:22:16] [スクリプトエラー]: [string "c25862681.lua"]:4: attempt to call a nil value (field 'NonTuner')
+[2025-10-01 17:28:08] [スクリプトエラー]: stack traceback:
+[2025-10-01 17:28:08] [スクリプトエラー]: 	[string "c25862681.lua"]:4: in function <[string "c25862681.lua"]:2>
+[2025-10-01 17:28:08] [スクリプトエラー]: [string "c25862681.lua"]:4: attempt to call a nil value (field 'NonTuner')
+[2025-10-01 17:45:45] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-01 17:46:02] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-01 23:11:36] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-01 23:22:50] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-02 21:23:16] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-02 23:03:01] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-02 23:06:08] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-02 23:32:12] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-02 23:35:13] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-02 23:35:39] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-03 17:30:11] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-04 00:29:32] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-04 00:29:51] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-04 10:48:55] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-04 10:49:41] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-05 10:44:51] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-05 10:45:31] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-05 16:57:57] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-05 23:42:05] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-06 01:34:17] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-07 01:22:52] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-07 01:23:25] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-08 00:54:57] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-08 00:55:45] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-12 15:22:22] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-12 15:22:56] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-13 15:16:55] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-13 15:18:47] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-13 15:50:17] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-13 15:50:27] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-13 21:29:57] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-13 21:30:26] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-14 00:26:34] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-14 00:26:56] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-14 16:37:33] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-14 16:37:59] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-15 01:49:24] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-15 01:50:31] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-15 15:01:53] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-15 15:02:55] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-16 00:41:53] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-16 00:42:03] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-16 14:52:00] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
+[2025-10-17 00:20:09] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed rmdir - 'C:/Users/solem/OneDrive/デスクトップ/work/03_ADS/ProjectIgnis-EDOPro-41.0.2-windows/ProjectIgnis/repositories/delta-bagooska/script/pre-release/' is locked: アクセスが拒否されました。
+
