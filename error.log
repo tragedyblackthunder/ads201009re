@@ -183,3 +183,13 @@
 [2026-02-08 04:26:24] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: failed to resolve address for github.com: そのようなホストは不明です。 
 [2026-02-13 10:53:54] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: the index is locked; this might be due to a concurrent or crashed process
 [2026-02-13 10:53:55] Warning occurred in repo https://github.com/ProjectIgnis/DeltaBagooska: no error
+[2026-04-23 15:14:20] [繧ｹ繧ｯ繝ｪ繝励ヨ繧ｨ繝ｩ繝ｼ]: stack traceback:
+[2026-04-23 15:14:20] [繧ｹ繧ｯ繝ｪ繝励ヨ繧ｨ繝ｩ繝ｼ]: 	[C]: in method 'SetCost'
+[2026-04-23 15:14:20] [繧ｹ繧ｯ繝ｪ繝励ヨ繧ｨ繝ｩ繝ｼ]: 	[string "c44508094.lua"]:17: in function <[string "c44508094.lua"]:4>
+[2026-04-23 15:14:20] [繧ｹ繧ｯ繝ｪ繝励ヨ繧ｨ繝ｩ繝ｼ]: [string "c44508094.lua"]:17: Parameter 2 should be "Function" but is "nil".
+[2026-04-23 15:14:20] [繧ｹ繧ｯ繝ｪ繝励ヨ繧ｨ繝ｩ繝ｼ]: stack traceback:
+[2026-04-23 15:14:20] [繧ｹ繧ｯ繝ｪ繝励ヨ繧ｨ繝ｩ繝ｼ]: 	[C]: in method 'SetCost'
+[2026-04-23 15:14:20] [繧ｹ繧ｯ繝ｪ繝励ヨ繧ｨ繝ｩ繝ｼ]: 	[string "c44508094.lua"]:17: in function <[string "c44508094.lua"]:4>
+[2026-04-23 15:14:20] [繧ｹ繧ｯ繝ｪ繝励ヨ繧ｨ繝ｩ繝ｼ]: [string "c44508094.lua"]:17: Parameter 2 should be "Function" but is "nil".
+[2026-06-14 22:13:32] Warning occurred in repo https://github.com/ProjectIgnis/LFLists: failed to connect to github.com: 
+[2026-06-14 22:13:32] Warning occurred in repo https://github.com/ProjectIgnis/Puzzles: failed to connect to github.com: 
